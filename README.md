@@ -3,7 +3,7 @@
 
 ## Pada Program ini hanya terdapat 1 file utama yaitu "FP Strukdat.c"
 
-### 1. "Barang.java"
+### 1. "FP Strukdat.c"
 #### Penjelasan:
 
 ##### Pada file ini menjelaskan tentang program manajemen data dan manajemen anggota dengan konsep stack dan queue
